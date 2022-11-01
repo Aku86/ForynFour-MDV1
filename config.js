@@ -17,7 +17,7 @@ global.nobot = '6287743131885'
 //  URL SOSMED
 global.instagram = 'https://instagram.com/Rakigt'
 global.github = 'https://github.com/Aku86'
-global.gc = 'https:'MINTA KE OWNER'
+global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
 global.web = 'https://lynk.id/Raki.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'Gaada Maszeh'
 
